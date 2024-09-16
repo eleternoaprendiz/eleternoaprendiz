@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eleternoaprendiz, nickname for Álex
-- 👀 I’m interested in a bunch of things: Physics, literature, music, DJing and now programming
-- 🌱 I’m currently learning Python and Data Analytics
+- 👋 Hi, I’m @eleternoaprendiz, nickname for Álex Vidal
+- 👀 I’m interested in a bunch of things: Physics graduate, sf, fantasy and horror editor for 22+ beautiful years, also a reader's club conducter for +18 years, sometimes I write about indie music (indielovers.org) and, from time to time, I also DJ
+- 🌱 I’m currently learning Python and Data Analytics with a strong interest in anything science and maths related 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @eleternoaprendiz at IG
+- 📫 How to reach me: @eleternoaprendiz in IG
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'll be filling in this...
 
